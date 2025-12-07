@@ -1,4 +1,5 @@
 Added mods:
+
 - Amendments
 - Better Combat
 - Create
@@ -94,9 +95,11 @@ Added mods:
 - Yet Another Config Lib
 
 Added shader packs:
+
 - Complementary Unbound + Euphoria Patches
 
 Added resource packs:
+
 - AVPBR Retextured
 - Better GUI for Sophisticated Backpacks
 - Create Simple Storage
