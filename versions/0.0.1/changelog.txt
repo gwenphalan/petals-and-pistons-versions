@@ -1,0 +1,117 @@
+Added mods:
+- Amendments
+- Better Combat
+- Create
+- Create: Bells & Whistles
+- Create: Copycats+
+- Create: Deco
+- Create: Goggles
+- Create Jetpack
+- Corpse
+- Design n' Decor
+- Farmer's Delight
+- Farmer's Knives
+- Handcrafted
+- Simply Swords
+- Sophisticated Backpacks
+- Supplementaries
+- Tom's Storage
+- Tree Harvester
+- Waystones
+- YDM's Weapon Master
+- Geophilic
+- Hybrid Aquatic
+- Lithostitched
+- TerraBlender
+- Terralith
+- Terraphilic
+- Advancement Plaques
+- AppleSkin
+- BetterF3
+- Biome Spawn Point
+- Client Tweaks
+- Controlling
+- Default Options
+- EMI
+- EMI Create Schematics
+- EMI Enchanting
+- EMI Loot
+- EMIxx
+- Enchantment Descriptions
+- Inventory Essentials
+- Jade
+- Jade Addons
+- Just Enough Items (JEI)
+- Just Zoom
+- Mouse Tweaks
+- RightClickHarvest
+- Searchables
+- Xaero's Minimap
+- Xaero's World Map
+- Xaero's Zoomout
+- BadOptimizations
+- Dynamic FPS
+- Entity Culling
+- Euphoria Patcher
+- FerriteCore
+- ImmediatelyFast
+- ModernFix
+- More Culling
+- Packet Fixer
+- Reese's Sodium Options
+- Sodium
+- 3D Skin Layers
+- AmbientSounds
+- Color Wheel
+- Emiffect
+- Entity Model Features
+- Entity Texture Features
+- Iris Shaders
+- Minecraft Cursor
+- Model Gap Fix
+- Architectury API
+- BaguetteLib
+- Balm
+- Bookshelf
+- Cloth Config API
+- Collective
+- CreativeCore
+- Curios API
+- Extra Mod Integrations
+- Forgified Fabric API
+- Fzzy Config
+- GeckoLib
+- Iceberg
+- JamLib
+- Konkrete
+- Kotlin for Forge
+- Moonlight Lib
+- Player Animation Lib
+- Prickle
+- Resourceful Lib
+- Sinytra Connector
+- Sophisticated Core
+- Yet Another Config Lib
+
+Added shader packs:
+- Complementary Unbound + Euphoria Patches
+
+Added resource packs:
+- AVPBR Retextured
+- Better GUI for Sophisticated Backpacks
+- Create Simple Storage
+- Create Sophisticated Backpacks
+- Createful Plaques
+- Fresh Animations
+- Fresh Compats
+- Fresh Moves (With Animated Eyes)
+- FA+ Creepers
+- FA+ Details
+- FA+ Emissive
+- FA+ Objects
+- FA+ Spiders
+- Icon Fresh
+- Mini Cursors Light
+- Panorama Re-Shaded (Day Version)
+- UD Refined- Lite
+

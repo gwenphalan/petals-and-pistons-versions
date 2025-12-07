@@ -1,0 +1,28 @@
+Added mods:
+- Create Contraption Terminals
+- KubeJS
+- KubeJS Create
+- LootJS: KubeJS Addon
+- Lootr
+- More Chests Variants (MCV)
+- Open Parties and Claims
+- Ponder for KubeJS
+- Simpe Voice Chat
+- Sounds
+- Create: Encased
+- Create: New Age
+- Create: Crafts & Additions
+- Better Third Person
+- Sound Physics Remastered
+- Simply More [Addon to: Simply Swords]
+- Stick n' Stone [Addon to: Simply Swords & Simply More]
+- Melody [Required By: FancyMenu]
+- Quad [Required By: More Chests Variants (MCV)]
+- Rhino [Required  By: KubeJS]
+- M.R.U [Required By: Sounds]
+
+Added resource packs:
+- Floral Creeper
+
+Removed resource packs:
+- FA+ Creepers
