@@ -1,30 +1,90 @@
+- Fixed a resource pack name with a name incompatible with windows
+- Neoforge Updated to 21.1.26
+
 Added mods:
 
 - Create Contraption Terminals
+- Let Me Despawn
 - KubeJS
+- Paxi
 - KubeJS Create
 - LootJS: KubeJS Addon
 - Lootr
 - More Chests Variants (MCV)
 - Open Parties and Claims
 - Ponder for KubeJS
+- Straw Statues
 - Simpe Voice Chat
+- FancyMenu
+- Drippy Loading Screen
+- Drippy Early Loading Module
 - Sounds
 - Create: Encased
 - Create: New Age
 - Create: Crafts & Additions
 - Better Third Person
 - Sound Physics Remastered
+- Chipped
+- UnChipped
+- Simply More
+- Distant Horizons
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Holidays
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Stairs
+- Macaw's Trapdoors
+- Macaw's Windows 
+- Cut Through
+- Easy Anvils
+- Easy Magic
+- Visual Workbench
+- Comfortable Campfires
+- Durability Tooltip
+- Pick Up Notifier
+- Highlighter
+- Legendary Tooltips
+- Chat Animation [Smooth Chat]
+- Dynamic Crosshair
+- Item Borders
+- Item Highlighter
+- Comforts
+- Create Jetpack
+- Create Slice & Diceuhh
+- Cubes Without Borders
+- Remove Terralith Intro Message
 - Simply More [Addon to: Simply Swords]
 - Stick n' Stone [Addon to: Simply Swords & Simply More]
+- YUNG's API [Required By: Paxi]
+- Almanac [Required By: Let Me Despawn]
+- Prism [Required By: Item Borders, Legendary Tooltips]
+- SuperMartijn642's Config Lib [Required By: Durability Tooltip]
+- Puzzles Lib [Required By: Visual Workbench, Easy Anvils, Easy Magic, Cut Through, Pick Up Notifier, Straw Statues]
 - Melody [Required By: FancyMenu]
+- Athena [Required By: Chipped]
 - Quad [Required By: More Chests Variants (MCV)]
 - Rhino [Required  By: KubeJS]
 - M.R.U [Required By: Sounds]
 
+Update mods:
+
+- CreativeCore
+- Moonlight Lib
+- Supplementaries
+
+Removed mods:
+
+-  Create: Design & Decore [Incompatible  w/ Supplementaries]
+-  More Culling [Incompatible with Flywheel]
+- BadOptimizations [Incompatible with Flywheel]
+
 Added resource packs:
 
 - Floral Creeper
+- Create: Petals & Pistons - FA+ Cherry Blossom Iron Golem
 
 Removed resource packs:
 
